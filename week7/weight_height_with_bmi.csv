@@ -1,0 +1,11 @@
+weight,height,age,gender,BMI,Risk
+70,175,25,M,0.4,Nutrient deficient
+65,168,30,F,0.3869047619047619,Nutrient deficient
+80,180,22,M,0.4444444444444444,Nutrient deficient
+55,160,28,F,0.34375,Nutrient deficient
+90,185,35,M,0.4864864864864865,Nutrient deficient
+60,165,24,F,0.36363636363636365,Nutrient deficient
+75,178,29,M,0.42134831460674155,Nutrient deficient
+58,162,27,F,0.35802469135802467,Nutrient deficient
+85,182,31,M,0.46703296703296704,Nutrient deficient
+62,170,26,F,0.36470588235294116,Nutrient deficient
